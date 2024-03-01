@@ -1,0 +1,28 @@
+h1{
+margin: 10px 0 10px 10px;
+margin-top: 10px;
+margin-left: 10px;
+    color:aquamarine;
+    text-align: center;
+}
+
+
+p {
+color:pink;
+text-align: initial;
+font-size: 24px;
+}
+
+/*
+
+define o fundo do site como blue violet*/
+body {
+
+    background-color: white;
+}
+p2{
+
+    color: deeppink;
+    text-align: left;
+    text-decoration: dotted;
+}
